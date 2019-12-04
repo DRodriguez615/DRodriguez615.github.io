@@ -4,12 +4,19 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Damon Rodriguez. I have the following qualities:
 
-- I rock a great mustache
+- Very active, I love the gym!
 - I'm extremely loyal to my family
+- Striving to be the best version of myself!
 
 What else do you need?
+
+## this is a header
+
+text
+-bullets
+-another bullet
 
 ### my history
 
